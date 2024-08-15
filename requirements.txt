@@ -1,0 +1,14 @@
+ # graphviz==2.38
+ ipython
+ joblib
+ lifelines
+ lightgbm
+ matplotlib
+ notebook
+ numpy
+ pandas
+ pydot
+ pymc
+ scikit-learn
+ scipy
+ statsmodels

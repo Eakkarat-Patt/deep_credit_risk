@@ -1,0 +1,18 @@
+name: DCR3
+channels:
+  - conda-forge
+dependencies:
+  - graphviz=2.38
+  - ipython=8.2.0
+  - joblib=1.1.0
+  - lifelines=0.26.4
+  - lightgbm=3.2.1
+  - matplotlib=3.5.1
+  - notebook=6.4.8
+  - numpy=1.21.5
+  - pandas=1.4.2
+  - pydot=1.4.1
+  - pymc=4.2.2
+  - scikit-learn=1.0.2
+  - scipy=1.7.3
+  - statsmodels=0.13.2
